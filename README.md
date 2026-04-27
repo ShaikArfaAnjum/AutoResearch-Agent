@@ -40,7 +40,7 @@ User Input (Topic)
 Automatically retrieves research papers from multiple sources.
 
 ⚙️ Features:
-Fetches papers from ArXiv API
+Fetches papers from Groq API
 Fetches papers from Semantic Scholar API
 Removes duplicate results
 Filters based on relevance
@@ -101,7 +101,8 @@ LITERATURE REVIEW: [Topic Name]
 🛠️ Tech Stack
 Python
 Streamlit
-APIs: ArXiv, Semantic Scholar
+APIs: GroqAPI
+, Semantic Scholar
 AI Models (Claude / LLM APIs)
 HTML/CSS (Custom UI)
 NLP & Data Processing
