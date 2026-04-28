@@ -1,0 +1,9 @@
+streamlit
+matplotlib
+pandas
+numpy
+requests
+beautifulsoup4
+plotly
+semanticscholar
+arxiv
